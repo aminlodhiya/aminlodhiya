@@ -4,9 +4,9 @@
 <h1>🙋‍♂️ About Me </h1>
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong organisation, time management & communication skills.
-- 🌱 I’m currently learning **NodeJs, ReactJs**
+- 🌱 I’m currently exploring **Web3**
 
-- 👨‍💻 All of my projects are available at (https://mahmadamin.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://amin-lodhiya.vercel.app/)
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
 
