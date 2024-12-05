@@ -1,11 +1,11 @@
 <h1 align="center"> Hey! Nice to see you.</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India!</h3>
 
 <h1>🙋‍♂️ About Me </h1>
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong problem-solving, time management & communication skills.
 - 🌱 I’m currently exploring **Web3**
-- 👨‍💻 I am comfortable in Java(Springboot), Python(Flask), Typescript, NextJs.
+- 👨‍💻 I am comfortable in Java(Springboot), Python(Flask), Typescript, NextJs and MLFlow.
 - 👨‍💻 All of my projects are available at (https://amin-lodhiya.vercel.app/)
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
