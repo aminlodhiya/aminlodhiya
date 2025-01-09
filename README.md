@@ -5,7 +5,7 @@
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong problem-solving, time management & communication skills.
 - 🌱 I’m currently exploring **Web3**
-- 👨‍💻 I am comfortable in Java(Springboot), Python(Flask), Typescript, NextJs and MLFlow.
+- 👨‍💻 I am comfortable in Java - Springboot, Python - Flask, Typescript, NextJs, Docker and MLFlow.
 - 👨‍💻 All of my projects are available at (https://amin-lodhiya.vercel.app/)
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
