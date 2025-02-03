@@ -4,7 +4,7 @@
 <h1>🙋‍♂️ About Me </h1>
 
 - 👨‍⚖️ I`m a Self-motivated learner with strong problem-solving, time management & communication skills.
-- 🌱 I’m currently exploring **Web3**
+- 🌱 I’m currently exploring **AI Agent**
 - 👨‍💻 I am comfortable in Java - Springboot, Python - Flask, Typescript, NextJs, Docker and MLFlow.
 - 👨‍💻 All of my projects are available at (https://amin-lodhiya.vercel.app/)
 
