@@ -1,4 +1,4 @@
-<h1 align="center"> Hey!! Nice to see you</h1>
+<h1 align="center"> Hey! Nice to see you</h1>
 <h3 align="center">I am a Full Stack developer from India!!</h3>
 
 <h1>🙋‍♂️ About Me</h1>
