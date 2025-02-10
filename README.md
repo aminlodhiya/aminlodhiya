@@ -6,7 +6,7 @@
 - 👨‍⚖️ I`m a Self-motivated learner with strong problem-solving, time management & communication skills.
 - 🌱 I’m currently exploring **AI Agent**
 - 👨‍💻 I am comfortable in Java - Springboot, Python - Flask, Typescript, NextJs, Docker and MLFlow.
-- 👨‍💻 All of my projects are available at (https://amin-lodhiya.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://aminlodhiya.vercel.app/)
 
 - 📫 How to reach me **aminlodhiya@gmail.com**
 
