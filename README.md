@@ -6,7 +6,7 @@
 - 💻 Tech Stack: **Java (Spring Boot), Python (Flask), TypeScript, Next.js, Docker, MLflow**.  
 - 🌱 Currently exploring **AI Agents**.  
 - 📂 Check out my work: [aminlodhiya.vercel.app](https://aminlodhiya.vercel.app/)  
-- 📫 Reach me at **aminlodhiya@gmail.com**  
+- 📫 Reach me at **aminlodhiya88@gmail.com**  
 
 ## 📍 Connect with Me  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/aminlodhiya)  
