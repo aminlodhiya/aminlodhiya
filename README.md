@@ -1,9 +1,9 @@
-<h1 align="center">Hey!1 Nice to see you 👋</h1>
+<h1 align="center">Hey! Nice to see you 👋</h1>
 <h3 align="center">I'm Amin, a Full Stack Developer from India</h3>
 
 ## 🚀 About Me  
 - 🔹 Passionate about building scalable backends & AI-powered solutions.  
-- 💻 Tech Stack: **Java(Spring Boot), Python(Flask), TypeScript, Next.js, Docker, MLflow, AI Agents**.  
+- 💻 Tech Stack: **Java(Spring Boot), Python(Flask), TypeScript, Next.js, Docker, MLflow, AI Agents, Langchain**.  
 - 🌱 Currently exploring **AI Agents**.  
 - 📂 Check out my work: [aminlodhiya.vercel.app](https://aminlodhiya.vercel.app/)  
 - 📫 Reach me at **aminlodhiya88@gmail.com**  
