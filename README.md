@@ -9,6 +9,19 @@
 - 📚 Currently learning Golang & System Design to build high-throughput services
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
+### 📊 Leetcode Stats
+- **Total Solved:** 399
+- Easy: 217 | Medium: 163 | Hard: 19
+
+### 📝 Recent Submissions
+| Problem | Submission | Time |
+|---------|------------|------|
+| [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | a day ago |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | a day ago |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | a day ago |
+| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Link](https://leetcode.com/submissions/detail/1773797157/) | 2 days ago |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1772243519/) | 3 days ago |
+
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/aminlodhiya)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/aminlodhiya)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/aminlodhiya07)  
