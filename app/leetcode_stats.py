@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 import humanize
 
-README_FILE = "README.md"
+README_FILE = "../README.md"
 API_URL = "https://leetcode.com/graphql"
 HEADERS = {"Content-Type": "application/json"}
 
