@@ -24,7 +24,7 @@ jobs:
           pip install requests humanize
 
       - name: Run script
-        run: python leetcode.py
+        run: python app/leetcode_stats.py
 
       - name: Commit and push changes
         run: |
