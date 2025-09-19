@@ -3,7 +3,8 @@ import re
 from datetime import datetime
 import humanize
 
-README_FILE = "../README.md"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+README_FILE = os.path.join(BASE_DIR, "..", "README.md")
 API_URL = "https://leetcode.com/graphql"
 HEADERS = {"Content-Type": "application/json"}
 
