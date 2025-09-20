@@ -17,8 +17,8 @@
 | Problem | Submission | Time |
 |---------|------------|------|
 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | a day ago |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | a day ago |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | a day ago |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | 2 days ago |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | 2 days ago |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Link](https://leetcode.com/submissions/detail/1773797157/) | 2 days ago |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1772243519/) | 3 days ago |
 
