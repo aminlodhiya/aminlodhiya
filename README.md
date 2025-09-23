@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 399
-- Easy: 217 | Medium: 163 | Hard: 19
+- **Total Solved:** 400
+- Easy: 217 | Medium: 164 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | 3 days ago |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | 4 days ago |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | 4 days ago |
-| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Link](https://leetcode.com/submissions/detail/1773797157/) | 4 days ago |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1772243519/) | 5 days ago |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 9 hours ago |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1779098183/) | 13 hours ago |
+| [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | 4 days ago |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | 5 days ago |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
