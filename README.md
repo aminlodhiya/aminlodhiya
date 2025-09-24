@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 400
-- Easy: 217 | Medium: 164 | Hard: 19
+- **Total Solved:** 401
+- Easy: 217 | Medium: 165 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 9 hours ago |
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1779098183/) | 13 hours ago |
-| [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | 4 days ago |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | 5 days ago |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://leetcode.com/submissions/detail/1774026002/) | 5 days ago |
+| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 22 hours ago |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | a day ago |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1779098183/) | a day ago |
+| [Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://leetcode.com/submissions/detail/1774614303/) | 5 days ago |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Link](https://leetcode.com/submissions/detail/1774037076/) | 6 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
