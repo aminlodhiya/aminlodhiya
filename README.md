@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Link](https://leetcode.com/submissions/detail/1783202418/) | a day ago |
-| [Triangle](https://leetcode.com/problems/triangle/) | [Link](https://leetcode.com/submissions/detail/1782203883/) | 2 days ago |
-| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 4 days ago |
-| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 5 days ago |
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1779098183/) | 5 days ago |
+| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Link](https://leetcode.com/submissions/detail/1783202418/) | 2 days ago |
+| [Triangle](https://leetcode.com/problems/triangle/) | [Link](https://leetcode.com/submissions/detail/1782203883/) | 3 days ago |
+| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 5 days ago |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 6 days ago |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1779098183/) | 6 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
