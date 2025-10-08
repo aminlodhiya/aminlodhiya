@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Link](https://leetcode.com/submissions/detail/1787242704/) | 6 days ago |
-| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Link](https://leetcode.com/submissions/detail/1783202418/) | 10 days ago |
-| [Triangle](https://leetcode.com/problems/triangle/) | [Link](https://leetcode.com/submissions/detail/1782203883/) | 11 days ago |
-| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 13 days ago |
-| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 14 days ago |
+| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Link](https://leetcode.com/submissions/detail/1787242704/) | 7 days ago |
+| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Link](https://leetcode.com/submissions/detail/1783202418/) | 11 days ago |
+| [Triangle](https://leetcode.com/problems/triangle/) | [Link](https://leetcode.com/submissions/detail/1782203883/) | 12 days ago |
+| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 14 days ago |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://leetcode.com/submissions/detail/1779350461/) | 15 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
