@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Link](https://leetcode.com/submissions/detail/1838772851/) | 9 hours ago |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1839605989/) | 10 hours ago |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Link](https://leetcode.com/submissions/detail/1839579425/) | 10 hours ago |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Link](https://leetcode.com/submissions/detail/1839407946/) | 14 hours ago |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Link](https://leetcode.com/submissions/detail/1838772851/) | a day ago |
 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Link](https://leetcode.com/submissions/detail/1787242704/) | a month ago |
-| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Link](https://leetcode.com/submissions/detail/1783202418/) | a month ago |
-| [Triangle](https://leetcode.com/problems/triangle/) | [Link](https://leetcode.com/submissions/detail/1782203883/) | a month ago |
-| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Link](https://leetcode.com/submissions/detail/1779795945/) | 2 months ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
