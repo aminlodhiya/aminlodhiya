@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 403
-- Easy: 217 | Medium: 167 | Hard: 19
+- **Total Solved:** 404
+- Easy: 218 | Medium: 167 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1839605989/) | 10 hours ago |
-| [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Link](https://leetcode.com/submissions/detail/1839579425/) | 10 hours ago |
-| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Link](https://leetcode.com/submissions/detail/1839407946/) | 14 hours ago |
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Link](https://leetcode.com/submissions/detail/1838772851/) | a day ago |
-| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Link](https://leetcode.com/submissions/detail/1787242704/) | a month ago |
+| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | 15 hours ago |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | 21 hours ago |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | 22 hours ago |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1839605989/) | a day ago |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Link](https://leetcode.com/submissions/detail/1839579425/) | a day ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
