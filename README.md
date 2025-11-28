@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | 15 hours ago |
-| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | 21 hours ago |
-| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | 22 hours ago |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1839605989/) | a day ago |
-| [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Link](https://leetcode.com/submissions/detail/1839579425/) | a day ago |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1841016343/) | 14 hours ago |
+| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | a day ago |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | a day ago |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | a day ago |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1839605989/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
