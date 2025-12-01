@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1841558065/) | a day ago |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1841016343/) | 2 days ago |
-| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | 3 days ago |
-| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | 3 days ago |
-| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | 3 days ago |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1841558065/) | 2 days ago |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1841016343/) | 3 days ago |
+| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | 4 days ago |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | 4 days ago |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
