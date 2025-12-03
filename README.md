@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 404
-- Easy: 218 | Medium: 167 | Hard: 19
+- **Total Solved:** 405
+- Easy: 219 | Medium: 167 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1841558065/) | 3 days ago |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1841016343/) | 4 days ago |
-| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Link](https://leetcode.com/submissions/detail/1840197948/) | 5 days ago |
-| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Link](https://leetcode.com/submissions/detail/1839991149/) | 5 days ago |
-| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://leetcode.com/submissions/detail/1839942937/) | 5 days ago |
+| [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Link](https://leetcode.com/submissions/detail/1845546464/) | 9 seconds ago |
+| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Link](https://leetcode.com/submissions/detail/1845244311/) | 10 hours ago |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1845164595/) | 11 hours ago |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://leetcode.com/submissions/detail/1844739495/) | 21 hours ago |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Link](https://leetcode.com/submissions/detail/1841558065/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
