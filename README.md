@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Link](https://leetcode.com/submissions/detail/1846946718/) | 10 hours ago |
-| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://leetcode.com/submissions/detail/1846933532/) | 11 hours ago |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1846899862/) | 11 hours ago |
-| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://leetcode.com/submissions/detail/1846417020/) | 23 hours ago |
-| [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Link](https://leetcode.com/submissions/detail/1845546464/) | 2 days ago |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Link](https://leetcode.com/submissions/detail/1847276595/) | 23 hours ago |
+| [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Link](https://leetcode.com/submissions/detail/1846946718/) | a day ago |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://leetcode.com/submissions/detail/1846933532/) | a day ago |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1846899862/) | a day ago |
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://leetcode.com/submissions/detail/1846417020/) | a day ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
