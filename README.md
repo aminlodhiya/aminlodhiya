@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 405
-- Easy: 219 | Medium: 167 | Hard: 19
+- **Total Solved:** 407
+- Easy: 220 | Medium: 168 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Link](https://leetcode.com/submissions/detail/1847276595/) | a day ago |
-| [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Link](https://leetcode.com/submissions/detail/1846946718/) | 2 days ago |
-| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://leetcode.com/submissions/detail/1846933532/) | 2 days ago |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://leetcode.com/submissions/detail/1846899862/) | 2 days ago |
-| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://leetcode.com/submissions/detail/1846417020/) | 3 days ago |
+| [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Link](https://leetcode.com/submissions/detail/1848894759/) | a day ago |
+| [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Link](https://leetcode.com/submissions/detail/1848853952/) | a day ago |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Link](https://leetcode.com/submissions/detail/1847276595/) | 2 days ago |
+| [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Link](https://leetcode.com/submissions/detail/1846946718/) | 3 days ago |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://leetcode.com/submissions/detail/1846933532/) | 3 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
