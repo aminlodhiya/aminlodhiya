@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 407
-- Easy: 220 | Medium: 168 | Hard: 19
+- **Total Solved:** 408
+- Easy: 220 | Medium: 169 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Link](https://leetcode.com/submissions/detail/1848894759/) | a day ago |
-| [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Link](https://leetcode.com/submissions/detail/1848853952/) | a day ago |
-| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Link](https://leetcode.com/submissions/detail/1847276595/) | 2 days ago |
-| [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Link](https://leetcode.com/submissions/detail/1846946718/) | 3 days ago |
-| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://leetcode.com/submissions/detail/1846933532/) | 3 days ago |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | 11 hours ago |
+| [Total Score of Dungeon Runs](https://leetcode.com/problems/total-score-of-dungeon-runs/) | [Link](https://leetcode.com/submissions/detail/1850313559/) | 11 hours ago |
+| [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Link](https://leetcode.com/submissions/detail/1848894759/) | 2 days ago |
+| [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Link](https://leetcode.com/submissions/detail/1848853952/) | 2 days ago |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Link](https://leetcode.com/submissions/detail/1847276595/) | 3 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
