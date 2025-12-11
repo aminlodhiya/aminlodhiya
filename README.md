@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1851338774/) | 10 hours ago |
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | 11 hours ago |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | a day ago |
-| [Total Score of Dungeon Runs](https://leetcode.com/problems/total-score-of-dungeon-runs/) | [Link](https://leetcode.com/submissions/detail/1850313559/) | a day ago |
-| [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Link](https://leetcode.com/submissions/detail/1848894759/) | 3 days ago |
+| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | 11 hours ago |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | a day ago |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | 2 days ago |
+| [Total Score of Dungeon Runs](https://leetcode.com/problems/total-score-of-dungeon-runs/) | [Link](https://leetcode.com/submissions/detail/1850313559/) | 2 days ago |
+| [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Link](https://leetcode.com/submissions/detail/1848894759/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
