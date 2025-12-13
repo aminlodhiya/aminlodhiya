@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853139049/) | 9 hours ago |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | 11 hours ago |
-| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | a day ago |
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | 2 days ago |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | 3 days ago |
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853963833/) | 9 hours ago |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | a day ago |
+| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | 2 days ago |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | 3 days ago |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
