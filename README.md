@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 409
-- Easy: 220 | Medium: 170 | Hard: 19
+- **Total Solved:** 410
+- Easy: 221 | Medium: 170 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853963833/) | a day ago |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | 2 days ago |
-| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | 3 days ago |
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | 4 days ago |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/1850330694/) | 5 days ago |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | 10 hours ago |
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853963833/) | 2 days ago |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | 3 days ago |
+| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | 4 days ago |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://leetcode.com/submissions/detail/1851253453/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
