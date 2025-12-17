@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 411
-- Easy: 221 | Medium: 171 | Hard: 19
+- **Total Solved:** 412
+- Easy: 221 | Medium: 172 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Minimum Moves to Balance Circular Array](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Link](https://leetcode.com/submissions/detail/1856484941/) | 10 hours ago |
-| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | a day ago |
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853963833/) | 3 days ago |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | 4 days ago |
-| [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://leetcode.com/submissions/detail/1852195984/) | 5 days ago |
+| [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Link](https://leetcode.com/submissions/detail/1857296776/) | 11 hours ago |
+| [Minimum Moves to Balance Circular Array](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Link](https://leetcode.com/submissions/detail/1856484941/) | a day ago |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | 2 days ago |
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1853963833/) | 4 days ago |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://leetcode.com/submissions/detail/1853068282/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
