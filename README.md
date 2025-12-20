@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1859174608/) | 9 hours ago |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1858285603/) | a day ago |
-| [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Link](https://leetcode.com/submissions/detail/1857296776/) | 2 days ago |
-| [Minimum Moves to Balance Circular Array](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Link](https://leetcode.com/submissions/detail/1856484941/) | 3 days ago |
-| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | 4 days ago |
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1859174608/) | a day ago |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1858285603/) | 2 days ago |
+| [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Link](https://leetcode.com/submissions/detail/1857296776/) | 3 days ago |
+| [Minimum Moves to Balance Circular Array](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Link](https://leetcode.com/submissions/detail/1856484941/) | 4 days ago |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
