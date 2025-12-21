@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 412
-- Easy: 221 | Medium: 172 | Hard: 19
+- **Total Solved:** 416
+- Easy: 221 | Medium: 176 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1859174608/) | a day ago |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1858285603/) | 2 days ago |
-| [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Link](https://leetcode.com/submissions/detail/1857296776/) | 3 days ago |
-| [Minimum Moves to Balance Circular Array](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Link](https://leetcode.com/submissions/detail/1856484941/) | 4 days ago |
-| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1855597880/) | 5 days ago |
+| [Integer Break](https://leetcode.com/problems/integer-break/) | [Link](https://leetcode.com/submissions/detail/1860333113/) | 21 hours ago |
+| [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860254685/) | 23 hours ago |
+| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860235205/) | a day ago |
+| [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Link](https://leetcode.com/submissions/detail/1860233334/) | a day ago |
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1859174608/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
