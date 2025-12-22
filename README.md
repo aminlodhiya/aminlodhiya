@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 416
-- Easy: 221 | Medium: 176 | Hard: 19
+- **Total Solved:** 418
+- Easy: 222 | Medium: 177 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Integer Break](https://leetcode.com/problems/integer-break/) | [Link](https://leetcode.com/submissions/detail/1860333113/) | 21 hours ago |
-| [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860254685/) | 23 hours ago |
-| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860235205/) | a day ago |
-| [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Link](https://leetcode.com/submissions/detail/1860233334/) | a day ago |
-| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://leetcode.com/submissions/detail/1859174608/) | 2 days ago |
+| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1861197222/) | a day ago |
+| [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://leetcode.com/submissions/detail/1861183268/) | a day ago |
+| [Integer Break](https://leetcode.com/problems/integer-break/) | [Link](https://leetcode.com/submissions/detail/1860333113/) | a day ago |
+| [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860254685/) | a day ago |
+| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Link](https://leetcode.com/submissions/detail/1860235205/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
