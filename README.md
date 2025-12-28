@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866015655/) | 10 hours ago |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 4 days ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1862820946/) | 4 days ago |
-| [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://leetcode.com/submissions/detail/1861183268/) | 6 days ago |
-| [Integer Break](https://leetcode.com/problems/integer-break/) | [Link](https://leetcode.com/submissions/detail/1860333113/) | 6 days ago |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866334968/) | 23 hours ago |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 5 days ago |
+| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1862820946/) | 5 days ago |
+| [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://leetcode.com/submissions/detail/1861183268/) | 7 days ago |
+| [Integer Break](https://leetcode.com/problems/integer-break/) | [Link](https://leetcode.com/submissions/detail/1860333113/) | 7 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
