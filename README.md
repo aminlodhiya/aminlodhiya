@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1870800171/) | 20 hours ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1869401317/) | 2 days ago |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866334968/) | 5 days ago |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 10 days ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1862820946/) | 10 days ago |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1872288558/) | 11 hours ago |
+| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1869401317/) | 3 days ago |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866334968/) | 6 days ago |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 11 days ago |
+| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1862820946/) | 11 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
