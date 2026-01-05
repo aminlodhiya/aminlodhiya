@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1872288558/) | a day ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1869401317/) | 4 days ago |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866334968/) | 7 days ago |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 12 days ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1862820946/) | 12 days ago |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link](https://leetcode.com/submissions/detail/1874395930/) | 12 hours ago |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1872288558/) | 2 days ago |
+| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1869401317/) | 5 days ago |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://leetcode.com/submissions/detail/1866334968/) | 8 days ago |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://leetcode.com/submissions/detail/1862894775/) | 13 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
