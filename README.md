@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://leetcode.com/submissions/detail/1875633965/) | 10 hours ago |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://leetcode.com/submissions/detail/1875606886/) | 10 hours ago |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link](https://leetcode.com/submissions/detail/1874395930/) | a day ago |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1872288558/) | 3 days ago |
-| [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Link](https://leetcode.com/submissions/detail/1869401317/) | 6 days ago |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1877108010/) | 10 minutes ago |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://leetcode.com/submissions/detail/1876779487/) | 10 hours ago |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://leetcode.com/submissions/detail/1875606886/) | a day ago |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link](https://leetcode.com/submissions/detail/1874395930/) | 2 days ago |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://leetcode.com/submissions/detail/1872288558/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
