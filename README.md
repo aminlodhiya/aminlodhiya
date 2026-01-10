@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1879326072/) | 34 minutes ago |
-| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://leetcode.com/submissions/detail/1878959756/) | 11 hours ago |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1877108010/) | 2 days ago |
-| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://leetcode.com/submissions/detail/1876779487/) | 2 days ago |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://leetcode.com/submissions/detail/1875606886/) | 3 days ago |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1879326072/) | a day ago |
+| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://leetcode.com/submissions/detail/1878959756/) | a day ago |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1877108010/) | 3 days ago |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://leetcode.com/submissions/detail/1876779487/) | 3 days ago |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://leetcode.com/submissions/detail/1875606886/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
