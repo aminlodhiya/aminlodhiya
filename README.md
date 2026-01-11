@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 418
-- Easy: 222 | Medium: 177 | Hard: 19
+- **Total Solved:** 420
+- Easy: 223 | Medium: 178 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1879326072/) | a day ago |
-| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://leetcode.com/submissions/detail/1878959756/) | a day ago |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1877108010/) | 3 days ago |
-| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://leetcode.com/submissions/detail/1876779487/) | 3 days ago |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://leetcode.com/submissions/detail/1875606886/) | 4 days ago |
+| [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | [Link](https://leetcode.com/submissions/detail/1881001509/) | 10 hours ago |
+| [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Link](https://leetcode.com/submissions/detail/1880904038/) | 11 hours ago |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1879326072/) | 2 days ago |
+| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://leetcode.com/submissions/detail/1878959756/) | 2 days ago |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://leetcode.com/submissions/detail/1877108010/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
