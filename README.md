@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 423
-- Easy: 224 | Medium: 180 | Hard: 19
+- **Total Solved:** 424
+- Easy: 225 | Medium: 180 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Count Caesar Cipher Pairs](https://leetcode.com/problems/count-caesar-cipher-pairs/) | [Link](https://leetcode.com/submissions/detail/1881420599/) | 23 hours ago |
-| [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | [Link](https://leetcode.com/submissions/detail/1881351605/) | a day ago |
-| [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [Link](https://leetcode.com/submissions/detail/1881336406/) | a day ago |
-| [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | [Link](https://leetcode.com/submissions/detail/1881001509/) | a day ago |
-| [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Link](https://leetcode.com/submissions/detail/1880904038/) | a day ago |
+| [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Link](https://leetcode.com/submissions/detail/1882733060/) | 16 hours ago |
+| [Count Caesar Cipher Pairs](https://leetcode.com/problems/count-caesar-cipher-pairs/) | [Link](https://leetcode.com/submissions/detail/1881420599/) | a day ago |
+| [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | [Link](https://leetcode.com/submissions/detail/1881351605/) | 2 days ago |
+| [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [Link](https://leetcode.com/submissions/detail/1881336406/) | 2 days ago |
+| [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | [Link](https://leetcode.com/submissions/detail/1881001509/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
