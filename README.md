@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Link](https://leetcode.com/submissions/detail/1882733060/) | 16 hours ago |
-| [Count Caesar Cipher Pairs](https://leetcode.com/problems/count-caesar-cipher-pairs/) | [Link](https://leetcode.com/submissions/detail/1881420599/) | a day ago |
-| [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | [Link](https://leetcode.com/submissions/detail/1881351605/) | 2 days ago |
-| [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [Link](https://leetcode.com/submissions/detail/1881336406/) | 2 days ago |
-| [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | [Link](https://leetcode.com/submissions/detail/1881001509/) | 2 days ago |
+| [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Link](https://leetcode.com/submissions/detail/1884086765/) | 10 hours ago |
+| [Count Caesar Cipher Pairs](https://leetcode.com/problems/count-caesar-cipher-pairs/) | [Link](https://leetcode.com/submissions/detail/1881420599/) | 2 days ago |
+| [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | [Link](https://leetcode.com/submissions/detail/1881351605/) | 3 days ago |
+| [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [Link](https://leetcode.com/submissions/detail/1881336406/) | 3 days ago |
+| [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | [Link](https://leetcode.com/submissions/detail/1881001509/) | 3 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
