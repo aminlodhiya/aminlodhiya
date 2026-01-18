@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://leetcode.com/submissions/detail/1887339253/) | 12 minutes ago |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1887338225/) | 14 minutes ago |
-| [Sort List](https://leetcode.com/problems/sort-list/) | [Link](https://leetcode.com/submissions/detail/1887065274/) | 10 hours ago |
-| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://leetcode.com/submissions/detail/1886069793/) | a day ago |
-| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1886034414/) | a day ago |
+| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://leetcode.com/submissions/detail/1887339253/) | a day ago |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1887338225/) | a day ago |
+| [Sort List](https://leetcode.com/problems/sort-list/) | [Link](https://leetcode.com/submissions/detail/1887065274/) | a day ago |
+| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://leetcode.com/submissions/detail/1886069793/) | 2 days ago |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://leetcode.com/submissions/detail/1886034414/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
