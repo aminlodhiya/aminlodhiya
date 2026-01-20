@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 427
-- Easy: 226 | Medium: 182 | Hard: 19
+- **Total Solved:** 428
+- Easy: 226 | Medium: 183 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | 20 hours ago |
-| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | 23 hours ago |
-| [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://leetcode.com/submissions/detail/1888542575/) | 23 hours ago |
-| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://leetcode.com/submissions/detail/1887339253/) | 2 days ago |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://leetcode.com/submissions/detail/1887338225/) | 2 days ago |
+| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | 10 hours ago |
+| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | a day ago |
+| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | a day ago |
+| [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://leetcode.com/submissions/detail/1888542575/) | a day ago |
+| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://leetcode.com/submissions/detail/1887339253/) | 3 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
