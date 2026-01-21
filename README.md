@@ -10,17 +10,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 428
-- Easy: 226 | Medium: 183 | Hard: 19
+- **Total Solved:** 430
+- Easy: 228 | Medium: 183 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | 10 hours ago |
-| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | a day ago |
-| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | a day ago |
-| [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://leetcode.com/submissions/detail/1888542575/) | a day ago |
-| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://leetcode.com/submissions/detail/1887339253/) | 3 days ago |
+| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Link](https://leetcode.com/submissions/detail/1891353172/) | 10 hours ago |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1891297906/) | 11 hours ago |
+| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | a day ago |
+| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | 2 days ago |
+| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
