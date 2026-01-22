@@ -16,11 +16,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Link](https://leetcode.com/submissions/detail/1891353172/) | 10 hours ago |
-| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1891297906/) | 11 hours ago |
-| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | a day ago |
-| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | 2 days ago |
-| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | 2 days ago |
+| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Link](https://leetcode.com/submissions/detail/1892503198/) | 10 hours ago |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1891297906/) | a day ago |
+| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | 2 days ago |
+| [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Link](https://leetcode.com/submissions/detail/1888661071/) | 3 days ago |
+| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Link](https://leetcode.com/submissions/detail/1888549463/) | 3 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
