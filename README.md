@@ -3,7 +3,7 @@
 <h3 align="center">I'm Amin, a Software Engineer from India </h3>
 
 ## 🚀 About Me  
-- 🏗️ Full-Stack Engineer building AI-powered microservices in fintech & beyond
+- 🏗️ Backend Engineer building AI-powered microservices in fintech & beyond
 - ⚙️ Tech stack: Java (Spring Boot), Python (Flask), Airflow, MLflow, Docker, Kubernetes, TypeScript (Next.js)
 - 🚀 Passionate about turning ML models into scalable production APIs
 - 📚 Currently learning Golang & System Design to build high-throughput services
