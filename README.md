@@ -5,7 +5,6 @@
 ## 🚀 About Me  
 - 🏗️ Backend Engineer building AI-powered microservices in fintech & beyond
 - ⚙️ Tech stack: Java (Spring Boot), Python (Flask), Airflow, MLflow, Docker, Kubernetes, TypeScript (Next.js)
-- 🚀 Passionate about turning ML models into scalable production APIs
 - 📚 Currently learning Golang & System Design to build high-throughput services
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
