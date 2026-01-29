@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! Nice to see you!!👋</h1>
+<h1 align="center">Hello! Nice to see you!👋</h1>
 <h3 align="center">I'm Amin, a Software Engineer from India </h3>
 
 ## 🚀 About Me  
