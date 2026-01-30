@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1898903304/) | a day ago |
-| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1895622713/) | 4 days ago |
-| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Link](https://leetcode.com/submissions/detail/1893624552/) | 6 days ago |
-| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1891297906/) | 8 days ago |
-| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | 9 days ago |
+| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 10 hours ago |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1895622713/) | 5 days ago |
+| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Link](https://leetcode.com/submissions/detail/1893624552/) | 7 days ago |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1891297906/) | 9 days ago |
+| [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Link](https://leetcode.com/submissions/detail/1890169871/) | 10 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
