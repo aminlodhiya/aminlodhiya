@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 21 hours ago |
-| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Link](https://leetcode.com/submissions/detail/1902698164/) | a day ago |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://leetcode.com/submissions/detail/1902694252/) | a day ago |
-| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 3 days ago |
-| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1895622713/) | 8 days ago |
+| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | a day ago |
+| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Link](https://leetcode.com/submissions/detail/1902698164/) | 2 days ago |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://leetcode.com/submissions/detail/1902694252/) | 2 days ago |
+| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 4 days ago |
+| [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Link](https://leetcode.com/submissions/detail/1895622713/) | 9 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
