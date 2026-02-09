@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1909461878/) | 2 days ago |
-| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 6 days ago |
-| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Link](https://leetcode.com/submissions/detail/1902698164/) | 7 days ago |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://leetcode.com/submissions/detail/1902694252/) | 7 days ago |
-| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 9 days ago |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1909461878/) | 3 days ago |
+| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 7 days ago |
+| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Link](https://leetcode.com/submissions/detail/1902698164/) | 8 days ago |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://leetcode.com/submissions/detail/1902694252/) | 8 days ago |
+| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 10 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
