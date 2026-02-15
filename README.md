@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 432
-- Easy: 229 | Medium: 184 | Hard: 19
+- **Total Solved:** 435
+- Easy: 230 | Medium: 186 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1918300626/) | 10 hours ago |
-| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 12 days ago |
-| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Link](https://leetcode.com/submissions/detail/1902698164/) | 13 days ago |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://leetcode.com/submissions/detail/1902694252/) | 13 days ago |
-| [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Link](https://leetcode.com/submissions/detail/1901245481/) | 15 days ago |
+| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 34 minutes ago |
+| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | an hour ago |
+| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | 20 hours ago |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1918300626/) | a day ago |
+| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 13 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
