@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 34 minutes ago |
-| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | an hour ago |
-| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | 20 hours ago |
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1918300626/) | a day ago |
-| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 13 days ago |
+| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | a day ago |
+| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | a day ago |
+| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | a day ago |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1918300626/) | 2 days ago |
+| [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Link](https://leetcode.com/submissions/detail/1904097887/) | 14 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
