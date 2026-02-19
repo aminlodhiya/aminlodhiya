@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 435
-- Easy: 230 | Medium: 186 | Hard: 19
+- **Total Solved:** 436
+- Easy: 231 | Medium: 186 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Add Binary](https://leetcode.com/problems/add-binary/) | [Link](https://leetcode.com/submissions/detail/1922464396/) | 11 hours ago |
-| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 3 days ago |
-| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | 3 days ago |
-| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | 3 days ago |
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://leetcode.com/submissions/detail/1918300626/) | 4 days ago |
+| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 10 hours ago |
+| [Add Binary](https://leetcode.com/problems/add-binary/) | [Link](https://leetcode.com/submissions/detail/1922464396/) | a day ago |
+| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 4 days ago |
+| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | 4 days ago |
+| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
