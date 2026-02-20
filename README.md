@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 436
-- Easy: 231 | Medium: 186 | Hard: 19
+- **Total Solved:** 438
+- Easy: 233 | Medium: 186 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 10 hours ago |
-| [Add Binary](https://leetcode.com/problems/add-binary/) | [Link](https://leetcode.com/submissions/detail/1922464396/) | a day ago |
-| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 4 days ago |
-| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Link](https://leetcode.com/submissions/detail/1919593367/) | 4 days ago |
-| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Link](https://leetcode.com/submissions/detail/1918718350/) | 4 days ago |
+| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | 10 hours ago |
+| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | 10 hours ago |
+| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | a day ago |
+| [Add Binary](https://leetcode.com/problems/add-binary/) | [Link](https://leetcode.com/submissions/detail/1922464396/) | 2 days ago |
+| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
