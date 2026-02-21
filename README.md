@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 438
-- Easy: 233 | Medium: 186 | Hard: 19
+- **Total Solved:** 440
+- Easy: 235 | Medium: 186 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | 10 hours ago |
-| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | 10 hours ago |
-| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | a day ago |
-| [Add Binary](https://leetcode.com/problems/add-binary/) | [Link](https://leetcode.com/submissions/detail/1922464396/) | 2 days ago |
-| [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Link](https://leetcode.com/submissions/detail/1919668749/) | 5 days ago |
+| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1925673023/) | 10 hours ago |
+| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1925643001/) | 10 hours ago |
+| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | a day ago |
+| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | a day ago |
+| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
