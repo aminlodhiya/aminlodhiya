@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1931028274/) | 5 days ago |
-| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1925643001/) | 10 days ago |
-| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | 11 days ago |
-| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | 11 days ago |
-| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 12 days ago |
+| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1931028274/) | 6 days ago |
+| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1925643001/) | 11 days ago |
+| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | 12 days ago |
+| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | 12 days ago |
+| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 13 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
