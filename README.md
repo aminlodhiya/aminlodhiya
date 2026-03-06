@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1938000357/) | 10 hours ago |
-| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1925643001/) | 12 days ago |
-| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Link](https://leetcode.com/submissions/detail/1924711091/) | 13 days ago |
-| [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Link](https://leetcode.com/submissions/detail/1924673816/) | 13 days ago |
-| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Link](https://leetcode.com/submissions/detail/1923609269/) | 14 days ago |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://leetcode.com/submissions/detail/1939321414/) | 53 minutes ago |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://leetcode.com/submissions/detail/1938997567/) | 11 hours ago |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1938970967/) | 11 hours ago |
+| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1938000357/) | a day ago |
+| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1925643001/) | 13 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
