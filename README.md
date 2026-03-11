@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Link](https://leetcode.com/submissions/detail/1942103436/) | a day ago |
-| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://leetcode.com/submissions/detail/1939321414/) | 4 days ago |
-| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://leetcode.com/submissions/detail/1938997567/) | 4 days ago |
-| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link](https://leetcode.com/submissions/detail/1938970967/) | 4 days ago |
-| [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Link](https://leetcode.com/submissions/detail/1938000357/) | 5 days ago |
+| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | 11 hours ago |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | 11 hours ago |
+| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1944110121/) | 12 hours ago |
+| [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Link](https://leetcode.com/submissions/detail/1942103436/) | 2 days ago |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://leetcode.com/submissions/detail/1939321414/) | 5 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
