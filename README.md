@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | 10 hours ago |
-| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | a day ago |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | a day ago |
-| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1944110121/) | a day ago |
-| [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Link](https://leetcode.com/submissions/detail/1942103436/) | 3 days ago |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 11 hours ago |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | a day ago |
+| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | 2 days ago |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | 2 days ago |
+| [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Link](https://leetcode.com/submissions/detail/1944110121/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
