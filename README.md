@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1947292673/) | 10 hours ago |
-| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | a day ago |
-| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | 2 days ago |
-| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | 3 days ago |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | 3 days ago |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1947292673/) | a day ago |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 2 days ago |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | 3 days ago |
+| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | 4 days ago |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | 4 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
