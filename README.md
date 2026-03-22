@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 441
-- Easy: 236 | Medium: 186 | Hard: 19
+- **Total Solved:** 443
+- Easy: 237 | Medium: 187 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 3 days ago |
-| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 8 days ago |
-| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | 9 days ago |
-| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Link](https://leetcode.com/submissions/detail/1944205671/) | 10 days ago |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link](https://leetcode.com/submissions/detail/1944188149/) | 10 days ago |
+| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955357468/) | 44 minutes ago |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 2 hours ago |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 4 days ago |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 9 days ago |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | [Link](https://leetcode.com/submissions/detail/1945332225/) | 10 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
