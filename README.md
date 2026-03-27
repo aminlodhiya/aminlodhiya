@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 17 hours ago |
-| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 3 days ago |
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 4 days ago |
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 8 days ago |
-| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 13 days ago |
+| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | a day ago |
+| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 4 days ago |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 5 days ago |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 9 days ago |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | 14 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
