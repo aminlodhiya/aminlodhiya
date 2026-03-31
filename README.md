@@ -15,10 +15,10 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 4 days ago |
+| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 5 days ago |
 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 8 days ago |
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 8 days ago |
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 12 days ago |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 9 days ago |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 13 days ago |
 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://leetcode.com/submissions/detail/1946301709/) | a month ago |
 
 <!--END_SECTION:LEETCODE-->
