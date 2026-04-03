@@ -15,11 +15,11 @@
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Link](https://leetcode.com/submissions/detail/1964606560/) | a day ago |
-| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 7 days ago |
-| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 10 days ago |
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 11 days ago |
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | 15 days ago |
+| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Link](https://leetcode.com/submissions/detail/1964606560/) | 2 days ago |
+| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 8 days ago |
+| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 11 days ago |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 12 days ago |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | a month ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
