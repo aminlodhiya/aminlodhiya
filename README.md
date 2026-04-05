@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 444
-- Easy: 237 | Medium: 188 | Hard: 19
+- **Total Solved:** 445
+- Easy: 238 | Medium: 188 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Link](https://leetcode.com/submissions/detail/1964606560/) | 3 days ago |
-| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 9 days ago |
-| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 12 days ago |
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 13 days ago |
-| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Link](https://leetcode.com/submissions/detail/1951424539/) | a month ago |
+| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Link](https://leetcode.com/submissions/detail/1969202319/) | an hour ago |
+| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Link](https://leetcode.com/submissions/detail/1964606560/) | 4 days ago |
+| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 10 days ago |
+| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Link](https://leetcode.com/submissions/detail/1955419180/) | 13 days ago |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Link](https://leetcode.com/submissions/detail/1955259894/) | 14 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
