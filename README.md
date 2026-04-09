@@ -9,17 +9,17 @@
 - 🤝 Open to collaborating, sharing ideas & learning from the community
 <!--START_SECTION:LEETCODE-->
 ### 📊 Leetcode Stats
-- **Total Solved:** 445
-- Easy: 238 | Medium: 188 | Hard: 19
+- **Total Solved:** 447
+- Easy: 240 | Medium: 188 | Hard: 19
 
 ### 📝 Recent Submissions
 | Problem | Submission | Time |
 |---------|------------|------|
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Link](https://leetcode.com/submissions/detail/1971885645/) | 11 hours ago |
-| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Link](https://leetcode.com/submissions/detail/1971871328/) | 11 hours ago |
-| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Link](https://leetcode.com/submissions/detail/1970877593/) | a day ago |
-| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Link](https://leetcode.com/submissions/detail/1964606560/) | 7 days ago |
-| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Link](https://leetcode.com/submissions/detail/1958803566/) | 13 days ago |
+| [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Link](https://leetcode.com/submissions/detail/1973131028/) | an hour ago |
+| [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Link](https://leetcode.com/submissions/detail/1972822807/) | 11 hours ago |
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Link](https://leetcode.com/submissions/detail/1971885645/) | a day ago |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Link](https://leetcode.com/submissions/detail/1971871328/) | a day ago |
+| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Link](https://leetcode.com/submissions/detail/1970877593/) | 2 days ago |
 
 <!--END_SECTION:LEETCODE-->
 ## 📍 Connect with Me  
