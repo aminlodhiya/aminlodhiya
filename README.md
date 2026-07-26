@@ -1,12 +1,23 @@
+<h1 align="center">Hi, I'm Amin 👋</h1>
+<h3 align="center">I build backend systems that turn slow, manual processes into automated, high-throughput pipelines</h3>
 
-<h1 align="center">Hello! Nice to see you!👋</h1>
-<h3 align="center">I'm Amin, a Software Engineer from India </h3>
+<br>
 
-## 🚀 About Me  
-- Backend Engineer building AI-powered microservices in fintech & beyond
-- Tech stack: Java (Spring Boot), Python (Flask), Airflow, MLflow, Docker, Kubernetes, TypeScript (Next.js)
-- Currently learning Golang & System Design to build high-throughput services
-- Open to collaborating, sharing ideas & learning from the community
+I'm a backend engineer working on identity verification and document-processing systems that run at production scale — the kind of infra that fintech, KYC, and compliance-heavy products depend on. Recently I designed a verification pipeline that cut customer processing time from minutes to under half a second, and rebuilt matching logic to handle 100,000+ automated checks a day. Alongside that, I work on distributed-systems side projects (rate limiters, consistent hashing caches) to go deeper on the fundamentals behind that kind of infra.
 
-## 📍 Connect with Me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/aminlodhiya)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/aminlodhiya)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/aminlodhiya07)  
+If you're building high-volume backend systems, hardening them for production, or just like talking distributed systems — I'm always up for it.
+
+### What I work with
+- **Backend:** Java (11+), Spring Boot, Spring Data JPA/Hibernate, REST APIs, microservices
+- **Data/AI integration:** Python, Flask, OCR & embedding-based services wired into Java systems via REST
+- **Infra:** Docker (multi-stage builds), Kubernetes (AKS), CI/CD, Gitflow
+- **Testing & security:** JUnit, Mockito, TDD/BDD, OWASP secure coding, VAPT/SBOM remediation
+- **Currently exploring:** Go and system design, aimed at higher-throughput service design
+
+### A couple of things I've shipped
+- A configurable rule-based **KYC matching engine** that replaced manual identity verification — accuracy-tunable thresholds, full JUnit/Mockito coverage, deployed on AKS
+- A **distributed rate limiter** (token bucket, sliding window, fixed window) with Java and Python SDKs
+- A **distributed cache** using consistent hashing with virtual nodes, LRU eviction, and configurable replication
+
+### Reach me
+📧 **aminlodhiya88@gmail.com** — open to interesting backend/distributed-systems problems, always happy to chat.
