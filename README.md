@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amin 👋</h1>
-<h3 align="center">I build backend systems that turn slow, manual processes into automated, high-throughput pipelines</h3>
+<h3 align="center">I build backend systems that turn slow, manual processes into automated, high-throughput pipelines..</h3>
 
 <br>
 
