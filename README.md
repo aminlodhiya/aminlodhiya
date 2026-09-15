@@ -20,4 +20,4 @@ If you're building high-volume backend systems, hardening them for production, o
 - A **distributed cache** using consistent hashing with virtual nodes, LRU eviction, and configurable replication
 
 ### Reach me
-📧 **aminlodhiya88@gmail.com** — open to interesting backend/distributed-systems problems, always happy to chat.
+📧 **aminlodhiya88@gmail.com** — open to interesting backend/distributed-systems problems, always happy to chat.. lets connect!
