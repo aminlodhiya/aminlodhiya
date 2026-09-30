@@ -8,7 +8,7 @@ I'm a backend engineer working on identity verification and document-processing 
 If you're building high-volume backend systems, hardening them for production, or just like talking distributed systems — I'm always up for it.
 
 ### What I work with
-- **Backend:** Java (11+), Spring Boot, Spring Data JPA/Hibernate, REST APIs, microservices
+- **Backend:** Java, Spring Boot, Spring Data JPA/Hibernate, REST APIs, microservices
 - **Data/AI integration:** Python, Flask, OCR & embedding-based services wired into Java systems via REST
 - **Infra:** Docker (multi-stage builds), Kubernetes (AKS), CI/CD, Gitflow
 - **Testing & security:** JUnit, Mockito, TDD/BDD, OWASP secure coding, VAPT/SBOM remediation
