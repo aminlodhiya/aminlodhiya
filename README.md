@@ -10,7 +10,7 @@ If you're building high-volume backend systems, hardening them for production, o
 ### What I work with
 - **Backend:** Java, Spring Boot, Spring Data JPA/Hibernate, REST APIs, microservices
 - **Data/AI integration:** Python, Flask, OCR & embedding-based services wired into Java systems via REST
-- **Infra:** Docker (multi-stage builds), Kubernetes (AKS), CI/CD, Gitflow
+- **Infra:** Docker (multi-stage builds), Kubernetes (AKS), CI/CD, Gitflow, Microsoft Azure
 - **Testing & security:** JUnit, Mockito, TDD/BDD, OWASP secure coding, VAPT/SBOM remediation
 - **Currently exploring:** Go and system design, aimed at higher-throughput service design
 
