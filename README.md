@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a backend engineer working on identity verification and document-processing systems that run at production scale — the kind of infra that fintech, KYC, and compliance-heavy products depend on. Recently I designed a verification pipeline that cut customer processing time from minutes to under half a second, and rebuilt matching logic to handle 100,000+ automated checks a day. Alongside that, I work on distributed-systems side projects (rate limiters, consistent hashing caches) to go deeper on the fundamentals behind that kind of infra.
+I'm a backend engineer working on identity verification and document processing systems that run at production scale — the kind of infra that fintech, KYC, and compliance heavy products depend on. Recently I designed a verification pipeline that cut customer processing time from minutes to under half a second, and rebuilt matching logic to handle 100,000+ automated checks a day. Alongside that, I work on distributed-systems side projects (rate limiters, consistent hashing caches) to go deeper on the fundamentals behind that kind of infra.
 
 If you're building high volume backend systems, hardening them for production, or just like talking distributed systems — I'm always up for it.
 
