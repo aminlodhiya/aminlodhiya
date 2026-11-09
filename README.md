@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Amin 👋</h1>
 
 <h3 align="center">
-  Backend Engineer | Java & Spring Boot | Distributed Systems | AI Integration
+  Backend Engineer | Java & Spring Boot | AI Integration | Cloud Infrastructure
 </h3>
 
 <p align="center">
-  Building scalable backend systems, production APIs, and automation pipelines.
+  Building scalable backend systems, production APIs, and real-world applications.
 </p>
 
 ---
@@ -24,19 +24,23 @@ Some of the problems I've worked on:
 - 🏗️ Developed and deployed microservices using Docker and Kubernetes (AKS).
 - 🔒 Improved application and container security through VAPT and SBOM remediation.
 
-Beyond my day-to-day work, I enjoy exploring distributed systems and building engineering projects to understand how things work under the hood.
+Beyond my day-to-day work, I enjoy building products, exploring system architecture, and turning ideas into working software.
 
-I'm particularly interested in **backend architecture, distributed systems, performance engineering, and AI-powered applications.**
+I'm particularly interested in **backend engineering, AI-powered applications, distributed systems, and cloud infrastructure.**
 
 ### Tech Stack
 
 **Backend Development**
 <br>
-Java · Spring Boot · Spring Data JPA · Hibernate · Python · Flask · REST APIs · Microservices
+Java · Spring Boot · Spring Data JPA · Hibernate · Python · Flask · Node.js · Express.js · REST APIs
 
-**Databases & Messaging**
+**Databases & Search**
 <br>
 PostgreSQL · MySQL · Redis · pgvector
+
+**AI & Machine Learning Integration**
+<br>
+OCR · Image Embeddings · Vector Search · Computer Vision · AI APIs
 
 **DevOps & Infrastructure**
 <br>
@@ -54,44 +58,47 @@ Go · Distributed Systems · High-Throughput Architecture
 
 ### Featured Projects
 
-#### 1. Distributed Rate Limiter
-A distributed rate-limiting system implementing multiple algorithms.
+#### 1. CricOps — Cricket Auction & Tournament Management Platform
 
-- Token Bucket
-- Sliding Window
-- Fixed Window
-- Java and Python SDKs
+A platform designed to simplify cricket tournament management, player registration, team creation, and live auctions.
 
-#### 2. Distributed Cache
-A distributed caching system designed to explore data distribution and fault tolerance.
+- Player registration and verification.
+- Team and player pool management.
+- Live player auctions and bidding.
+- Team owner interactions and re-auction workflows.
+- Public spectator auction experience.
 
-- Consistent Hashing
-- Virtual Nodes
-- LRU Eviction
-- Configurable Replication
+**Tech:** Node.js · Express.js · Backend APIs · Docker
 
-#### 3. KYC Matching Engine
-A configurable rule-based identity verification engine built for production workflows.
+🔗 [Live Demo](https://cricops.aminlodhiya.in)
 
-- Configurable confidence thresholds
-- Multi-document identity matching
-- Java and Spring Boot
-- JUnit & Mockito test coverage
-- Kubernetes deployment
+#### 2. TileLens — AI-Powered Visual Search for Tiles
+
+A visual search engine that helps users discover similar tile designs using image similarity instead of traditional keyword searches.
+
+- Image-based tile discovery.
+- Deep learning image embeddings.
+- Vector similarity search using pgvector.
+- Image processing and visual matching.
+- Backend APIs for visual product discovery.
+
+**Tech:** Python · Flask · PostgreSQL · pgvector · ResNet · Docker
+
+🔗 [Live Demo](https://tilelens.vercel.app)
 
 ---
 
 ### What I'm Interested In
 
 - Building scalable backend systems.
+- AI integration into real-world products.
 - Distributed systems and system design.
-- AI integration into real-world applications.
-- Performance optimization and infrastructure.
-- Collaborating on interesting engineering projects.
+- Performance optimization and cloud infrastructure.
+- Building useful products and collaborating with ambitious people.
 
 ### Let's Connect
 
-I'm always open to connecting with engineers, founders, and teams working on challenging backend problems.
+I'm always open to connecting with engineers, founders, and teams working on interesting technical problems.
 
 <p align="center">
   <a href="mailto:aminlodhiya88@gmail.com">Email</a> •
