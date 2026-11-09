@@ -1,23 +1,104 @@
+
 <h1 align="center">Hi, I'm Amin 👋</h1>
-<h3 align="center">I build ai systems that turn slow, manual processes into automated, high-throughput pipelines.</h3>
 
+<h3 align="center">
+  Backend Engineer | Java & Spring Boot | Distributed Systems | AI Integration
+</h3>
+
+<p align="center">
+  Building scalable backend systems, production APIs, and automation pipelines.
+</p>
+
+---
+
+### About Me
+
+I'm a Backend Engineer focused on building **scalable, reliable, and high-performance systems**.
+
+Currently, I work on production-grade identity verification and document processing systems, combining Java, Spring Boot, Python, and AI-powered services.
+
+Some of the problems I've worked on:
+
+- ⚡ Reduced identity verification processing time from minutes to under 500ms.
+- 📈 Built automated verification pipelines handling 100,000+ checks per day.
+- 🏗️ Developed and deployed microservices using Docker and Kubernetes (AKS).
+- 🔒 Improved application and container security through VAPT and SBOM remediation.
+
+Beyond my day-to-day work, I enjoy exploring distributed systems and building engineering projects to understand how things work under the hood.
+
+I'm particularly interested in **backend architecture, distributed systems, performance engineering, and AI-powered applications.**
+
+### Tech Stack
+
+**Backend Development**
 <br>
+Java · Spring Boot · Spring Data JPA · Hibernate · Python · Flask · REST APIs · Microservices
 
-I'm a backend engineer working on identity verification and document processing systems that run at production scale — the kind of infra that fintech, KYC, and compliance heavy products depend on. Recently I designed a verification pipeline that cut customer processing time from minutes to under half a second, and rebuilt matching logic to handle 100,000+ automated checks a day. Alongside that, I work on distributed-systems side projects (rate limiters, consistent hashing caches) to go deeper on the fundamentals behind that kind of infra.
+**Databases & Messaging**
+<br>
+PostgreSQL · MySQL · Redis · pgvector
 
-If you're building high volume backend systems, hardening them for production, or just like talking distributed systems — I'm always up for it.
+**DevOps & Infrastructure**
+<br>
+Docker · Kubernetes · Azure · CI/CD · GitHub Actions · Linux
 
-### What I work with
-- **Backend:** Java, Spring Boot, Spring Data JPA/Hibernate, REST APIs, microservices.
-- **Data/AI integration:** Python, Flask, OCR & embedding-based services wired into Java systems via REST
-- **Infra:** Docker (multi-stage builds), Kubernetes (AKS), CI/CD, Gitflow, Microsoft Azure
-- **Testing & security:** JUnit, Mockito, TDD/BDD, OWASP secure coding, VAPT/SBOM remediation
-- **Currently exploring:** Go and system design, aimed at higher-throughput service design
+**Testing & Engineering**
+<br>
+JUnit · Mockito · TDD · BDD · System Design · OWASP
 
-### A couple of things I've shipped
-- A configurable rule-based **KYC matching engine** that replaced manual identity verification — accuracy-tunable thresholds, full JUnit/Mockito coverage, deployed on AKS
-- A **distributed rate limiter** (token bucket, sliding window, fixed window) with Java and Python SDKs
-- A **distributed cache** using consistent hashing with virtual nodes, LRU eviction, and configurable replication
+**Currently Exploring**
+<br>
+Go · Distributed Systems · High-Throughput Architecture
 
-### Reach me
-📧 **aminlodhiya88@gmail.com** — open to interesting backend/distributed-systems problems, always happy to chat. lets connect!
+---
+
+### Featured Projects
+
+#### 1. Distributed Rate Limiter
+A distributed rate-limiting system implementing multiple algorithms.
+
+- Token Bucket
+- Sliding Window
+- Fixed Window
+- Java and Python SDKs
+
+#### 2. Distributed Cache
+A distributed caching system designed to explore data distribution and fault tolerance.
+
+- Consistent Hashing
+- Virtual Nodes
+- LRU Eviction
+- Configurable Replication
+
+#### 3. KYC Matching Engine
+A configurable rule-based identity verification engine built for production workflows.
+
+- Configurable confidence thresholds
+- Multi-document identity matching
+- Java and Spring Boot
+- JUnit & Mockito test coverage
+- Kubernetes deployment
+
+---
+
+### What I'm Interested In
+
+- Building scalable backend systems.
+- Distributed systems and system design.
+- AI integration into real-world applications.
+- Performance optimization and infrastructure.
+- Collaborating on interesting engineering projects.
+
+### Let's Connect
+
+I'm always open to connecting with engineers, founders, and teams working on challenging backend problems.
+
+<p align="center">
+  <a href="mailto:aminlodhiya88@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/aminlodhiya/">LinkedIn</a> •
+  <a href="https://x.com/aminlodhiya">X / Twitter</a>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Ship. Repeat.</i>
+</p>
