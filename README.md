@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Amin 👋</h1>
+<h1 align="center">Hi, I'm Amin Lodhiya👋</h1>
 
 <h3 align="center">
   Backend Engineer | Java & Spring Boot | AI Integration | Cloud Infrastructure | AI Engineer
