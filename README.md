@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Amin 👋</h1>
 
 <h3 align="center">
-  Backend Engineer | Java & Spring Boot | AI Integration | Cloud Infrastructure
+  Backend Engineer | Java & Spring Boot | AI Integration | Cloud Infrastructure | AI Engineer
 </h3>
 
 <p align="center">
